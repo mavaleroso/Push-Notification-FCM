@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dashboard"
+        android:title="Dashboard"
+        android:icon="@drawable/ic_dashboard"/>
+
+    <item
+        android:id="@+id/sent"
+        android:title="Sent"
+        android:icon="@drawable/ic_send"/>
+
+    <item
+        android:id="@+id/recieved"
+        android:title="Recieved"
+        android:icon="@drawable/ic_message"/>
+
+</menu>

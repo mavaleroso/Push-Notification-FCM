@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "301331902318",
+    "firebase_url": "https://push-notification-fcm-c24a3.firebaseio.com",
+    "project_id": "push-notification-fcm-c24a3",
+    "storage_bucket": "push-notification-fcm-c24a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301331902318:android:df39d4ff7ee9671bf25b7f",
+        "android_client_info": {
+          "package_name": "com.marwen.pushnotificationfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301331902318-bta1ibkp8ug2p3uthfg06oin2bb9csub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marwen.pushnotificationfcm",
+            "certificate_hash": "c70c29986fd06fbdb49fdc7dff9aa91db4618dc5"
+          }
+        },
+        {
+          "client_id": "301331902318-sakcoeebhdbatje9s95v5fgijdkl33ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdkxs34RpNtBh_bBu7M1rnvAYaLqm8-Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301331902318-sakcoeebhdbatje9s95v5fgijdkl33ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
